@@ -8,7 +8,7 @@ let wordsGroups = [
     "Turpis nunc eget lorem dolor sed viverra ipsum",
     "Leo",
     "Non pulvinar neque laoreet suspendisse",
-    "Viverra suspendisse potenti nullam ac tortor vitae purus. Pharetra magna ac placerat vestibulum lectus mauris.",
+    "Viverra suspendisse potenti nullam ac tortor vitae purus. Pharetra magna ac placerat vestibulum lectus mauris",
     "Ligula ullamcorper",
     "Sit amet venenatis urna cursus",
 ]
